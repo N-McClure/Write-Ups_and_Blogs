@@ -24,4 +24,5 @@ Below are the links to them, the live articles are hosted on my blog. <br>
 # Security News Articles / Overviews
 
 <h2> Security News I covered at ISSessions 2025: </h2>
+<a href="https://n-mcclure.github.io/blog-post.html?slug=iss-news-november-20-2025-browser-in-the-browser" target="__blank__"> Nov 20th 2025 - Browser-In-The-Browser Attack</a>
 
