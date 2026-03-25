@@ -18,7 +18,8 @@ Below are the links to them, the live articles are hosted on my blog. <br>
 # Hacking & Research Write-Ups
 
 <a href="https://n-mcclure.github.io/blog-post.html?slug=my-first-reported-vuln-fake-wp-plugin" target="__blank__">My First Reported Vulnerability - Fake WordPress Plugin</a><br>
-<a href="https://n-mcclure.github.io/blog-post.html?slug=how-i-traced-a-russian-scammer-from-a-phishing-email" target="__blank__">How I Traced a Russian Scammer from a Phishing Email To Their Real Identity</a>
+<a href="https://n-mcclure.github.io/blog-post.html?slug=how-i-traced-a-russian-scammer-from-a-phishing-email" target="__blank__">How I Traced a Russian Scammer from a Phishing Email To Their Real Identity</a><br>
+<a href="https://n-mcclure.github.io/blog-post.html?slug=getting-familiar-with-digital-forensics-via-enron-scandal-analysis" target="__blank__">Getting Familiar With Digital Forensics - Enron Scandal Analysis</a><br>
 
 <hr>
 
