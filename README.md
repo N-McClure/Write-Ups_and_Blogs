@@ -32,3 +32,5 @@ Below are the links to them, the live articles are hosted on my blog. <br>
 <a href="https://n-mcclure.github.io/blog-post.html?slug=iss-news-february-9-2026-wordpress-plugin-sqli-vuln-impacts-40k-sites" target="__blank__">Feb 9th 2026 - WordPress Plugin SQL Injection Vuln Impacts 40K Sites</a><br>
 <a href="https://n-mcclure.github.io/blog-post.html?slug=iss-news-march-9-2026-wordpress-plugin-bug-allows-attackers-to-create-admin-accounts" target="__blank__">Mar 9th 2026 - WordPress Plugin Bug Allows Attackers To Create Admin Accounts</a><br>
 <a href="https://n-mcclure.github.io/blog-post.html?slug=iss-news-march-23-2026-darksword-ios-exploit-kit" target="__blank__"> Mar 23rd 2026 - DarkSword IOS Exploit Kit</a><br>
+<a href="https://n-mcclure.github.io/blog-post.html?slug=iss-news-april-6-2026-axios-npm-supply-chain-attack" target="__blank__"> Apr 6th 2026 - Axios NPM Supply Chain Attack</a>
+<br>
