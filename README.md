@@ -18,7 +18,7 @@ Below are the links to them, the live articles are hosted on my blog. <br>
 # Hacking & Research Write-Ups
 
 <a href="https://n-mcclure.github.io/blog-post.html?slug=my-first-reported-vuln-fake-wp-plugin" target="__blank__">My First Reported Vulnerability - Fake WordPress Plugin</a><br>
-<a href="https://n-mcclure.github.io/blog-post.html?getting-my-hands-dirty-breaking-down-a-sextortion-scam" target="__blank__">Getting My Hands Dirty Breaking Down a Sextortion Scam</a><br>
+<a href="https://n-mcclure.github.io/blog-post.html?slug=getting-my-hands-dirty-breaking-down-a-sextortion-scam" target="__blank__">Getting My Hands Dirty Breaking Down a Sextortion Scam</a><br>
 <a href="https://n-mcclure.github.io/blog-post.html?slug=getting-familiar-with-digital-forensics-via-enron-scandal-analysis" target="__blank__">Getting Familiar With Digital Forensics - Enron Scandal Analysis</a><br>
 
 <hr>
